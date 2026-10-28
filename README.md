@@ -32,11 +32,16 @@
 
 ## 주요 기능
 ### 회원 가입 및 로그인
+<img width="1000" height="600" alt="Frame 18" src="https://github.com/user-attachments/assets/e5bf14e9-5f41-4490-a1af-6f3e6a2bc8b8" />
+<img width="1200" height="600" alt="Frame 19" src="https://github.com/user-attachments/assets/e7c1fe69-9c20-4c36-81da-2ba0da8d361b" />
+
 * 사용자 계정 생성 및 로그인
 * 입력 정보 검증
 * 입력값이 올바르지 않은 경우 오류 메시지 처리
 
 ### 의뢰 게시판
+<img width="1500" height="700" alt="Frame 20" src="https://github.com/user-attachments/assets/cefa8159-1831-4776-a20e-d4936018b6ba" />
+
 * 필요한 업무를 게시물로 작성
 * 게시물 확인 및 검색
 * 의뢰 내용과 완료 기한을 바탕으로 업무 탐색
@@ -51,6 +56,8 @@
 * 싫어요 · 업무 미수행 : -0.1점
 
 ### 지도 기반 위치 확인
+<img width="1500" height="700" alt="Frame 21" src="https://github.com/user-attachments/assets/336863bf-88b1-496f-a7e7-b9dd1560b4a6" />
+
 * 지도에서 특정 위치 선택
 * 지도 터치 이벤트를 통해 위도와 경도 확인
 * 선택한 위치에 마커 생성
