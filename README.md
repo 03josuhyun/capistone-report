@@ -32,16 +32,54 @@
 
 ## 주요 기능
 ### 회원 가입 및 로그인
-**회원가입**
-
-https://github.com/user-attachments/assets/1e372929-5635-41f7-8269-8f377086b2f3
-
-**회원이 아닐 경우 로그인 시**
-
-https://github.com/user-attachments/assets/6ca386e8-a372-4453-9544-6c4a9a73e2bd
-
-
 * 사용자 계정 생성 및 로그인
 * 입력 정보 검증
 * 입력값이 올바르지 않은 경우 오류 메시지 처리
+
+### 의뢰 게시판
+* 필요한 업무를 게시물로 작성
+* 게시물 확인 및 검색
+* 의뢰 내용과 완료 기한을 바탕으로 업무 탐색
+
+### 신뢰도 시스템
+* 사용자 신뢰도를 점수로 표시
+* 평가 결과에 따라 신뢰도 점수 변경
+
+**점수 산정 기준**
+* 기본 점수 : 2.5점
+* 좋아요 : +0.1점
+* 싫어요 · 업무 미수행 : -0.1점
+
+### 지도 기반 위치 확인
+* 지도에서 특정 위치 선택
+* 지도 터치 이벤트를 통해 위도와 경도 확인
+* 선택한 위치에 마커 생성
+
+### 실시간 채팅
+* Firebase를 이용한 메시지 저장 및 불러오기
+* 타이머를 활용한 주기적인 메시지 확인
+* 의뢰인과 수행자 간의 업무 관련 소통
+
+## 구현 결과
+각 기능의 실제 구현 화면과 동작 결과를 첨부합니다.
+**회원가입 및 로그인**
+
+
+https://github.com/user-attachments/assets/4c6e6bcf-ce35-479c-9b92-bfd62f5be036
+
+**신뢰도 시스템**
+
+
+https://github.com/user-attachments/assets/b4e68129-d3c2-4045-ab19-640a49ffe613
+
+**지도 마커**
+
+
+https://github.com/user-attachments/assets/b49fc90d-105f-4c28-bbb1-38b0b5811bed
+
+
+**실시간 채팅**
+
+
+https://github.com/user-attachments/assets/f409ec9a-0610-4032-858e-9b20bfb8fe51
 
