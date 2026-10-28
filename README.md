@@ -32,9 +32,12 @@
 
 ## 주요 기능
 ### 회원 가입 및 로그인
-
-
+**회원가입**
 https://github.com/user-attachments/assets/1e372929-5635-41f7-8269-8f377086b2f3
+
+**회원이 아닐 경우 로그인 시**
+
+https://github.com/user-attachments/assets/6ca386e8-a372-4453-9544-6c4a9a73e2bd
 
 
 * 사용자 계정 생성 및 로그인
